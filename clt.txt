@@ -8,6 +8,7 @@
   "linux": {},
   "config": {
     "notice": "",
+    "download_url": "http://118.107.44.210:8082/#/download/h5",
     "lines": [
         "http://api.coinfast.net:2095"
     ]

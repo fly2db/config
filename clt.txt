@@ -8,9 +8,9 @@
   "linux": {},
   "config": {
     "notice": "",
-    "download_url": "http://118.107.44.210:8082/#/download/h5",
+    "download_url": "http://pool.coinfast.vip/#/download/h5",
     "lines": [
-        "http://api.coinfast.net:2095"
+        "http://api100.coinfast.net:2095"
     ]
   }
 }

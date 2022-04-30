@@ -1,0 +1,16 @@
+{
+  "android": {"android_version": "100", "android_url": ""},
+  "ios": {"ios_version": "100", "appleStore_url": "", "applePlist_url": "", "ios_url": ""},
+  "web_mobile": {"version": "100"},
+  "web_pc": {},
+  "windows": {},
+  "macos": {},
+  "linux": {},
+  "config": {
+    "notice": "",
+    "download_url": "http://118.107.44.210:8082/#/download/h5",
+    "lines": [
+        "http://api.coinfast.net:2095"
+    ]
+  }
+}
